@@ -2,8 +2,8 @@
 
 ===================================================================
 
-Nama  : Fariz Muhamad Ibnu Hisyam\n
-NIM   : 211524010\n
+Nama  : Fariz Muhamad Ibnu Hisyam
+NIM   : 211524010
 Kelas D4-1A
 
 
