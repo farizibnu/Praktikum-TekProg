@@ -7,6 +7,6 @@
 - Kelas D4-1A
 
 
-*_Repository ini dan file didalamnya dibuat untuk kebutuhan mata kuliah praktikum Teknik Pemrograman_*
+*Repository ini dan file didalamnya dibuat untuk kebutuhan mata kuliah praktikum _Teknik Pemrograman_*
 
 ===================================================================
