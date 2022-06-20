@@ -10,6 +10,6 @@
 - Kelas  : D4-1A
 - Bahasa : Java
 
-<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
-
+<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
+<br/ >
 ===================================================================
